@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "magnetic-music-354903",
+  "private_key_id": "e1de72e511407a1351ea7de4fc2d981c8fb74766",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxR0e3eeSOIRU2\nZxikUE3dpFgtsZsw5jd2RgFolZa98WVG22Um3CiE8UOzWa6jPJBXgwrYcUtHV9zF\n4RSZJVweTpMhxIOf2FIXi7z/WkpG98KIqpIlbjESq7Y/yrqCS6JkczGSLl9a6Lxb\nU6fHy7a4ZAYI0nfrAgfdunKD8+xKSkWVCn8uZwMBwrPDU3zqjArU7B1/FM3eFSSc\nLb6EF1nrG1N1SVLH6PEsEjL4fGvt2UAzALGyCRz1TNVVtvn5ExaDk6mw3ztGLa+r\nto23awNmCnkUrZqlXaSE9ZEyYqN7ibb3CWsO2JX3Yv7GCp/K9dDz09N1X1izMgLa\nvbuBOtAnAgMBAAECggEANRe3c0wmtqhSzYm/2AoS3+Pl4r1z0IfKKXpa1qMiU72V\nisyPNT2vRu1ozLB5vHqZchQVbfA0TugR/xNjU2Bcf9kheHX9w6QKJfIcRs+YOjve\nf4ayIVKokMJrYRyKkhYryvCy8mg/956HNsTNlWk9zmhqZD8AWhowF+hMfpdRd4fZ\niLb2j1Xt77i01Yy1hZHr6Q5N4z8H9ekqe/Ua+PINAmpzp+hNrf8jj/jHiR/az3IU\nMtZW0HHpUJkLmaeH7FMaYySiSTEbvezeY9oWpEPHaRCZANcLP/9mkZazfFGpKd0v\ndGHfwBQS+a3AW8bXGQfCwgUXLgMg3LpBdY9TRozdjQKBgQDtVZ+f7EBYvsOGlvHV\noGX3HgVUj3+VfaiI7VhzK/ExgKX3i0xWwyN83fqtrgBAnIO6rXSC4opADmbaOqMF\nsDNBpCwevyL2fBDJTdP/Qig2sT/lBYPGNdJpaeg5TRglBOuBtq7tWh8NOUaEw/4T\nJPo6Bg2krvRTwwUSOv1BT4OJJQKBgQC/OISOesvtrbmk1r9hBhXBCSC46XeBeE+L\nGOWmq5Pr00xHh553vxXX9u9BzuDwj9tVZPWYAtRecbP3F6wKTZHHqC/dCelv7bSh\ncENDaTXW1gmiLCg+crRuv9A3eirkJvXW2jJvOpsrZcttaH346bDAhN8z9VKpy83G\nvTSiG2/QWwKBgQCNWYmQPay1LihVaGDv0m/oFcEm87AQ4J4XrwQW0/z6dpxiKlx0\n8BOasrox5ofP82ehLt1Ndo7QR8OKBZJCOQbN+XEtfrjcBFgbDHdOd6BrsnVTeU1a\nJ4QBtEnSls/ifGOnBZ55TktgHNSbDf+sd0FwfVpy0qBBoszKZseetjSo4QKBgQCE\n1uZ/dJ8mxoEpGmZpKKkEKSsqSkZTExlvMCSZ3KguM+PR7U0RMxYhqdIcjXOGqulc\nMX7L02tlEOhMx40kuy6C3Twi+jfJIgFSBYM02WoljRu0JajveRAPwAEOCTiytr4i\nPAK9cqFJTLY9k1GwEehQVf4ZQlviyUpyvg5Kb3UF8QKBgHCrUgoRie4RQ/iD7BdT\neqIqTrUMDbV3UALXu7JxCLvf4lVF4Tp3l+mhm3LXee5OqXtX0SnkcpLQe1X9gao3\n15vuMrw02c3DgL14gsh88sQQUgbJ+KoX6DqVVsQ6sqL9Ul7N4qQbGE1fgxDJxi5s\n5IlP+DszXYysv2WXOlIStntf\n-----END PRIVATE KEY-----\n",
+  "client_email": "prescription-ocr-api@magnetic-music-354903.iam.gserviceaccount.com",
+  "client_id": "103453817651266215746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prescription-ocr-api%40magnetic-music-354903.iam.gserviceaccount.com"
+}
